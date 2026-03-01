@@ -1,12 +1,6 @@
 # python
 Python Syllabus for CodingGita Interview Round
 
-Here is a clean, structured **Syllabus File (Overview + Topic List)** that you can directly use or share with beginners.
-
----
-
-# Python Programming – Beginner Level
-
 ## Syllabus (Till Loops)
 
 ---
